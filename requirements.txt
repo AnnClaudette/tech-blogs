@@ -2,3 +2,7 @@ chainlit
 python-dotenv
 azure-ai-projects
 azure-identity
+markitdown[all]
+tiktoken
+openai
+azure.ai.inference
